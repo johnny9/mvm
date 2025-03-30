@@ -102,16 +102,11 @@ Below is an example in JSON form:
 
 ```json
 {
-  "script": "basic_dial.py",
+  "script": "basic_.py",
   "devices": [
     {
-      "hardware": "walle",
-      "software": "walle.imx",
-      "attributes": []
-    },
-    {
-      "hardware": "walle",
-      "software": "walle.imx",
+      "hardware": "401",
+      "software": "esp-miner-2.6.0",
       "attributes": []
     }
   ]
